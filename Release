@@ -1,0 +1,8 @@
+Origin: execOQ
+Label: execOQ Repo 
+Suite: stable
+Version: 1.0
+Codename: com.execOQ.repo
+Architectures: iphoneos-arm
+Components: main
+Description: hm
