@@ -64,6 +64,21 @@ Version: 1.1.5
 Installed-Size: 1900
 Filename: debs/dev.traurige.ve_1.1.5_iphoneos-arm.deb
 
+Package: emt.paisseon.satella
+Name: Satella
+Architecture: iphoneos-arm
+Description: Modern in-app purchase cracker
+Maintainer: Lilliana
+Author: Lilliana
+Section: Tweaks (Piracy)
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Icon: https://paisseon.github.io/icons/satella.png
+SileoDepiction: https://paisseon.github.io/depictions/satella.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Version: 1.4.1
+Installed-Size: 480
+Filename: debs/emt.paisseon.satella_1.4.1_iphoneos-arm.deb
 
 Package: love.litten.eneko
 Name: Eneko 🎬
@@ -91,4 +106,3 @@ Section: Tweaks
 Version: 1.5.4
 Installed-Size: 1760
 Filename: debs/love.litten.heartlines_1.5.4_iphoneos-arm.deb
-
