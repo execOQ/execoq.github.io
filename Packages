@@ -10,6 +10,7 @@ Section: Tweaks
 Version: 1.3.2
 Installed-Size: 432
 Filename: debs/dev.traurige.batterybuddy_1.3.2_iphoneos-arm.deb
+Size: 38790
 
 Package: dev.traurige.kayoko
 Name: Kayoko
@@ -22,6 +23,7 @@ Section: Tweaks
 Version: 1.0
 Installed-Size: 848
 Filename: debs/dev.traurige.kayoko_1.0_iphoneos-arm.deb
+Size: 73586
 
 Package: dev.traurige.libkitten
 Name: libKitten
@@ -37,6 +39,7 @@ Tag: role::developer
 Version: 1.3.4
 Installed-Size: 172
 Filename: debs/dev.traurige.libkitten_1.3.4_iphoneos-arm.deb
+Size: 8982
 
 Package: dev.traurige.liddell
 Name: Liddell
@@ -50,6 +53,7 @@ Section: Tweaks
 Version: 1.4.1
 Installed-Size: 672
 Filename: debs/dev.traurige.liddell_1.4.1_iphoneos-arm.deb
+Size: 91496
 
 Package: dev.traurige.ve
 Name: Vē 💌
@@ -63,6 +67,7 @@ Section: Tweaks
 Version: 1.1.5
 Installed-Size: 1900
 Filename: debs/dev.traurige.ve_1.1.5_iphoneos-arm.deb
+Size: 1134168
 
 Package: emt.paisseon.satella
 Name: Satella
@@ -79,6 +84,7 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Version: 1.4.1
 Installed-Size: 480
 Filename: debs/emt.paisseon.satella_1.4.1_iphoneos-arm.deb
+Size: 63392
 
 Package: love.litten.eneko
 Name: Eneko 🎬
@@ -94,6 +100,7 @@ Icon: https://repo.litten.love/depictions/Eneko/assets/icon.png
 Version: 1.1.2
 Installed-Size: 1428
 Filename: debs/love.litten.eneko_1.1.2_iphoneos-arm.deb
+Size: 992966
 
 Package: love.litten.heartlines
 Name: Heartlines 🌺
@@ -106,3 +113,5 @@ Section: Tweaks
 Version: 1.5.4
 Installed-Size: 1760
 Filename: debs/love.litten.heartlines_1.5.4_iphoneos-arm.deb
+Size: 1174570
+
